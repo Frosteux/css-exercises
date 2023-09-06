@@ -5,7 +5,7 @@
 */
 .odd-lines {
     background-color: rgb(233, 180, 180);
-    font-family: Verdana, "DejaVu Sans";
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #blue-id {
