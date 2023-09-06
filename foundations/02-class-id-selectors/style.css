@@ -1,0 +1,24 @@
+/* * **All odd numbered elements**: a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
+* **The second element**: blue text and a font size of 36px
+* **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
+* **The fourth element**: a light green background, a font size of 24px, and bold
+*/
+.odd-lines {
+    background-color: rgb(233, 180, 180);
+    font-family: Verdana, "DejaVu Sans";
+}
+
+#blue-id {
+    color: rgb(11, 11, 221);
+    font-size: 36px;
+}
+
+#green-id {
+    background-color:rgb(155, 252, 155);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.font-up {
+    font-size: 24px;
+}
